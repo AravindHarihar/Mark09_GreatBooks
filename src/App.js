@@ -43,7 +43,8 @@ const books = {
       rating: "4/5",
       singer: "Paramahamsa Yogananda"
     },
-    { name: "Shiva Triology", rating: "3/5", singer: "Amish Tripati" }
+    { name: "Shiva Triology", rating: "3/5", singer: "Amish Tripati" },
+    { name: "Where are we going?", rating: "3/5", singer: "Katie Zaho" }
   ]
 };
 
